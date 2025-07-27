@@ -98,7 +98,8 @@ const Manager = () => {
 
           </div>
           <div className='md:w-[40vw] md:pr-12'>
-              <img className='rounded-md drop-shadow(2px 4px 6px rgba(0,0,0,0.3))' src="src\assets\Managers.jpg" alt="Password manager" />
+              <img className='rounded-md drop-shadow(2px 4px 6px rgba(0,0,0,0.3))' 
+              src="https://raw.githubusercontent.com/sarthakgupta124/passop/refs/heads/main/public/Managers.jpg" alt="Password manager" />
           </div>
 
         </div>
